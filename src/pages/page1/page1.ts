@@ -18,7 +18,7 @@ export class Page1 {
       password: ''
     }
 
-    let test = '';
+    let test = '132';
   }
 
   login()
