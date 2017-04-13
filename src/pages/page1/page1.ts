@@ -17,6 +17,8 @@ export class Page1 {
       email: '',
       password: ''
     }
+
+    let test = '';
   }
 
   login()
